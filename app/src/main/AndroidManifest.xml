@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.suhitkoyani.cspitexampaper" >
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/download"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/download"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.Splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.MainActivity" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterActivity" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterCivil" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterComputer" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterElectrical" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterEC" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterIT" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterMechanical" ></activity>
+
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterOneCivil" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterTwoCivil" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterThreeCivil" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterFourCivil" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterFiveCivil" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterSixCivil" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterSevenCivil" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterEightCivil" ></activity>
+
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterOneComputer" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterTwoComputer" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterThreeComputer" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterFourComputer" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterFivecomputer" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterSixcomputer" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterSevencomputer" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterEightcomputer" ></activity>
+
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterOneElectrical" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterTwoElectrical" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterThreeElectrical" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterFourElectrical" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterFiveElectrical" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterSixElectrical" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterSevenElectrical" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterEightElectrical" ></activity>
+
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterOneEC" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterTwoEC" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterThreeEC" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterFourEC" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterFiveEC" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterSixEC" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterSevenEC" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterEightEC" ></activity>
+
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterOneIT" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterTwoIT" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterThreeIT" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterFourIT" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterFiveIT" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterSixIT" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterSevenIT" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterEightIT" ></activity>
+
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterOneMechanical" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterTwoMechanical" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterThreeMechanical" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterFourMechanical" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterFiveMechanical" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterSixMechanical" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterSevenMechanical" ></activity>
+        <activity android:name="com.example.suhitkoyani.cspitexampaper.SemesterEightMechanical" ></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\ExamPapers\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="179aea57e20f93b0a54d341245794208f2e0c39a">
+        <dex dex="D:\ExamPapers\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6d96ba38f0cbd19cc089aea8f72e06d07292dc38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Suhit Koyani\.android\build-cache\fe1ba28c92e52c9ba56b231390ab0f45bcecb746\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="D:\ExamPapers\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6749fef4e42a90b8b20e9faccdac34be429ff2db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Suhit Koyani\.android\build-cache\13711b89b2fbba4d528adadc0111219065131465\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="D:\ExamPapers\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e490b62ca098a220bbddefd6eab7ccc6dbb83cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Suhit Koyani\.android\build-cache\d20f8df9ce61d857afda36207f1e37b8df301e37\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="D:\ExamPapers\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9e072e8a7bd6f157a51887067121ead734978ebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Suhit Koyani\.android\build-cache\d1320d9842d7849e3a85c31e9ef6b08444710058\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="D:\ExamPapers\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a40e95d79fb3e8f82d8095b2468087956b063713\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ExamPapers\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\ExamPapers\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_553b54cf5437f13450cc59b730594a8028843cfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Suhit Koyani\.android\build-cache\46a60911e05eeab44fd167763b678145a0c9aa52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="D:\ExamPapers\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2cfdd164125322eff759991071a2a8b2522dd27c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Suhit Koyani\.android\build-cache\1f0de6350e5fd2bc22506471353deaabb4af40bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="D:\ExamPapers\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4e1ba9aeb3c7f5e358cb10c6297e0a8dd9815db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Suhit Koyani\.android\build-cache\782229e3199328485f06f145bcc50494e4039e5d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="D:\ExamPapers\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef5b0790d8bc6533d3ee78d665d1c6319fd30c3e\classes.dex" />
+    </item>
+
+</items>
